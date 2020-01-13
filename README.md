@@ -10,6 +10,7 @@ My Music Blog!
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
         		<li><a href="/blog">Blog</a></li>
+			<li><a href="/artist of the month">Artist of the month</a></li>
     		</ul>
 		</nav>
 		<div class="container">
