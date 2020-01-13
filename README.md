@@ -1,5 +1,4 @@
-# SpotiFinds
-My Music Blog!
+# SpotiFinds: Meghan's Music Blog
 Hello, I'm Meghan! Welcome to my blog, which will be regularly updated with my opinions on the music of today. I love rap, alternative and pop music. Hope you enjoy tuning in :)
 <!DOCTYPE html>
 <html>
@@ -22,7 +21,7 @@ Hello, I'm Meghan! Welcome to my blog, which will be regularly updated with my o
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:connmeghan@gmail.com">email</a></li>
+        		<li><a href="mailto:connmeghan@gmail.com">My Email</a></li>
 			</ul>
 		</footer>
 	</body>
