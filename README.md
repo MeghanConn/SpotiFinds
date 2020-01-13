@@ -3,7 +3,7 @@ My Music Blog!
 <!DOCTYPE html>
 <html>
 	<head>
-		<title> SpotiFinds </title>
+		<title> "SpotiFinds" </title>
 	</head>
 	<body>
 		<nav>
