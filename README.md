@@ -1,0 +1,2 @@
+# SpotiFinds
+My Music Blog!
