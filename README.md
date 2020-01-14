@@ -26,6 +26,6 @@ Hello, I'm Meghan! Welcome to my blog, which will be regularly updated with my o
 		</footer>
 	</body>
 	
-I'm learning how to code and thus this website looks sloppy. As I learn, I'll try to change the formatting and improve the layout. Thank you for for your patience!
+P.S.: I'm learning how to code and thus this website looks sloppy. As I learn, I'll try to change the formatting and improve the layout. Thank you for for your patience!
 
 </html>
